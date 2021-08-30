@@ -10,9 +10,9 @@ The website is created with two files: `_config.yml` and `index.md`. Edits shoul
 
 ### Adding links to course materials
 
-Add links to course materials (e.g. c, google slides, etc) to the schedule portion of the course website. Make sure the notebooks are viewable, but not editable by anyone with the link. 
+Add links to course materials (e.g. perusall links, google slides, etc) to the schedule portion of the course website. Make sure the notebooks are viewable, but not editable by anyone with the link. 
 
 ## Website
 
-The website renders here, and is updated after each commit: [https://kathrynschuler.com/ling172](https://kathrynschuler.com/neurolinguistics)
+The website renders here, and is updated after each commit: [https://kathrynschuler.com/neurolinguistics](https://kathrynschuler.com/neurolinguistics)
 
