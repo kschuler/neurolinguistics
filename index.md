@@ -10,12 +10,12 @@ layout: page
 
 <hr>
 
-> The course is full! [Join the waitlist!](https://docs.google.com/forms/d/e/1FAIpQLSew7x2h6oU2NbCZF_wgwjrdeRnRVjBZTcbrR528WjtNOdzFgw/viewform?usp=sf_link)
+> The course is full! [Join the waitlist!](https://forms.gle/qyiF72PnfSYwKxFn6)
 
 <hr>
 
 ## Instructor
-[Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu) 
+[Dr. Kathryn Schuler](mailto:kschuler@sas.upenn.edu) - you can call me Katie
 
 
 ## Overview
@@ -29,21 +29,21 @@ Neurolinguistics is a seminar on language and the brain. For the first few weeks
 ### Requirements
 
 - **Reading and posting discussion questions**: Each week, you will be responsible for preparing for the discussion by reading and annotating 2-3 papers on the weeks’ topic with discussion questions (on Perusall).
-- **Lead discussions**: Several times throughout the semester (but not every week), you will serve as discussion leader for a paper with one other student. As discussion leader, you’ll be responsible for presenting the paper, including summarizing (motivation, research questions, approach, and findings) and leading a discussion of the work. If you cannot attend synchronously you can submit a pre-recorded presentation. 
+- **Lead discussions**: Several times throughout the semester (but not every week), you will serve as discussion leader for a paper with one or two other students. As discussion leader, you’ll be responsible for presenting the paper, including summarizing (motivation, research questions, approach, and findings) and leading a discussion of the work. If you cannot attend synchronously you can submit a pre-recorded presentation. 
 - **Lit Review**: You will select a topic of interest (within the bounds of language and the brain) and write a formal literature review. There will be several assignments leading up to this final paper to help you make progress.
 
 ## Getting Help
 
-- **Ed Disucssion:** The best way to get help anytime is to ask a question on the [discussion board](). You'll get a response within 24 hours, usually much faster. Students are encouraged to answer each other's questions as well. 
-- **On papers:** Youc an ask questions about papers and discuss them via Perusall.
+- **Ed Disucssion:** The best way to get help anytime is to ask a question on the [discussion board](https://edstem.org/us/courses/13251/discussion/). You'll get a response within 24 hours, usually much faster. Students are encouraged to answer each other's questions as well. 
+- **On papers:** You can ask questions about papers and discuss them via Perusall.
 
  
 ### Materials
 
 - **[Course website](index.md)** (you are here) for schedule, policies, and links to all assigned materials
 - **[Canvas site](https://canvas.upenn.edu/courses/1613834)** for assignment submissions and grade related things
-- **[Perusall]()** for reading assignments (access code on canvas). 
-- **[Ed Discussion]()** for online discussion and support
+- **[Perusall](https://app.perusall.com/courses/neurolinguistics/_/dashboard/assignments)** for reading assignments (access code on canvas). 
+- **[Ed Discussion](https://edstem.org/us/courses/13251/discussion/)** for online discussion and support
 
 ### Evaluation 
 - **Class participation and preparation (50%)**  including reading and annotating to start the discussion on Perusall, participating in class discussions, and preparing for and leading discussions when you are a discussion leader. Grading rubric here. 
@@ -55,16 +55,16 @@ Schedule is subject to change. All sessions will be recorded and [posted here]()
 
 Wk  | Lecture | Readings | Resources
 1 | Sep 01: Welcome & Overview |  | *first day of Penn classes (31)* <br> 
-2 | Sep 08: Neurons & Methods | Ch 2-3 | 
-3 | Sep 15: Networks  | Ch 4-5 | *course selection period ends (14)* <br>
-4 | Sep 22: Perspective | Ch 7, 9-11 | 
-5 | Sep 29: Sounds & Phonemes| Ch 11-12 | 
-6 | Oct 06: Words | Ch 13-14 | 
-7 | Oct 13: Syntax I  | Ch 15-16 | *drop period ends (11) <br> fall break (14 - 17)*<br> 
-8 | Oct 20: Syntax II | Ch 17-19 | 
-9 | Oct 27: Semantics | Ch 20-21 | *grade types change deadline (29)*<br>
-10 | Nov 10: Acquisition  | Ch 22-24 | *advanced registration begins (1)* <br> 
-11 |  Nov 03: Sign Language | Ch 25 | *last day to withdraw (8)* <br> 
+2 | Sep 08: Neurons & Methods |  | 
+3 | Sep 15: Networks  |  | *course selection period ends (14)* <br>
+4 | Sep 22: Perspective |  | 
+5 | Sep 29: Sounds & Phonemes |  | 
+6 | Oct 06: Words |  | 
+7 | Oct 13: Syntax I  | | *drop period ends (11) <br> fall break (14 - 17)*<br> 
+8 | Oct 20: Syntax II | | 
+9 | Oct 27: Semantics |  | *grade types change deadline (29)*<br>
+10 | Nov 10: Acquisition  |  | *advanced registration begins (1)* <br> 
+11 |  Nov 03: Sign Language |  | *last day to withdraw (8)* <br> 
 12 | Nov 17: Bilingualism  | | 
 13 | Nov 24: Friday classes, no class!  | | *R & F classes on T & W <br> thanksgiving break (25-28)*
 14 | Dec 01: Evolution | | 
