@@ -32,6 +32,11 @@ Neurolinguistics is a seminar on language and the brain. For the first few weeks
 - **Lead discussions**: Several times throughout the semester (but not every week), you will serve as discussion leader for a paper with one or two other students. As discussion leader, you’ll be responsible for presenting the paper, including summarizing (motivation, research questions, approach, and findings) and leading a discussion of the work. If you cannot attend synchronously you can submit a pre-recorded presentation. 
 - **Lit Review**: You will select a topic of interest (within the bounds of language and the brain) and write a formal literature review. There will be several assignments leading up to this final paper to help you make progress.
 
+### Typical week
+
+- **Fridays** are deadline days. Writing assignment and feedback deadlines are always Friday at midnight (but note not all Fridays have something due)
+- **Wednesdays** are discussion days. Small groups of students will present papers and lead the discussion during class time. 
+
 ## Getting Help
 
 - **Ed Disucssion:** The best way to get help anytime is to ask a question on the [discussion board](https://edstem.org/us/courses/13251/discussion/). You'll get a response within 24 hours, usually much faster. Students are encouraged to answer each other's questions as well. 
@@ -46,29 +51,29 @@ Neurolinguistics is a seminar on language and the brain. For the first few weeks
 - **[Ed Discussion](https://edstem.org/us/courses/13251/discussion/)** for online discussion and support
 
 ### Evaluation 
-- **Class participation and preparation (50%)**  including reading and annotating to start the discussion on Perusall, participating in class discussions, and preparing for and leading discussions when you are a discussion leader. Grading rubric here. 
-- **Literature review (50%)**  including 9 check-points throughout the semester (abstract, bibliography, drafts, peer review) and your final literature review.
+- **Class participation and preparation (50%)**  including reading and annotating to start the discussion on Perusall, participating in class discussions, and preparing for and leading discussions when you are a discussion leader. [Grading rubric here](https://public.3.basecamp.com/p/uATqsDvYdptdvtFXC2jYFnQ6). 
+- **Literature review (50%)**  including several check-points throughout the semester (abstract, bibliography, drafts, peer review) and your final literature review.
 
 
 ## Schedule
 Schedule is subject to change. All sessions will be recorded and [posted here]() a few minutes after each class.
 
 Wk  | Lecture | Readings | Resources
-1 | Sep 01: Welcome & Overview |  | *first day of Penn classes (31)* <br> 
-2 | Sep 08: Neurons & Methods |  | 
-3 | Sep 15: Networks  |  | *course selection period ends (14)* <br>
-4 | Sep 22: Perspective |  | 
-5 | Sep 29: Sounds & Phonemes |  | 
-6 | Oct 06: Words |  | 
-7 | Oct 13: Syntax I  | | *drop period ends (11) <br> fall break (14 - 17)*<br> 
-8 | Oct 20: Syntax II | | 
-9 | Oct 27: Semantics |  | *grade types change deadline (29)*<br>
-10 | Nov 10: Acquisition  |  | *advanced registration begins (1)* <br> 
-11 |  Nov 03: Sign Language |  | *last day to withdraw (8)* <br> 
-12 | Nov 17: Bilingualism  | | 
+1 | Sep 01: Welcome & Overview | | *first day of Penn classes (31)* <br> 
+2 | Sep 08: Neurons & Methods | [Organization of CNS](https://app.perusall.com/courses/neurolinguistics/the-brain-and-behavior-787898030?assignmentId=nrsgpimBwd2cg8vhy&part=1)<br>[Brain and Behavior](https://app.perusall.com/courses/neurolinguistics/the-organization-of-the-central-nervous-system?assignmentId=EMm34PeuwrtyC3xqW&part=1) <br> [Language and the Brain](https://app.perusall.com/courses/neurolinguistics/ch-7-language-and-the-brain?assignmentId=AyYFRNmHBCQgKD9Am&part=1)    | 
+3 | Sep 15: Networks  | Catani, Jones, & Ffytche 2005 <br>  Friederici & Gierhan 2013 | *course selection period ends (14)* <br>
+4 | Sep 22: Perspective |  Krakauer et al. 2017 <br>  Embick & Poeppel 2015 | 
+5 | Sep 29: Sounds & Phonemes | Scott et al 2000 <br>   Nishimura et al 1999 | 
+6 | Oct 06: Words | Davis & Gaskell 2009 <br> Quiroga et al. 2015 | 
+7 | Oct 13: Syntax I  | Fitch & Martins 2014 <br>  Kaan & Swaab 2002  | *drop period ends (11) <br> fall break (14 - 17)*<br> 
+8 | Oct 20: Syntax II | Mikuuchi et al 2009 <br> Ding et al. 2016 | 
+9 | Oct 27: Semantics |  Lau et al. 2008 <br>  Friedrich & Friederici 2005 | *grade types change deadline (29)*<br>
+10 | Nov 10: Acquisition  | Petitto et al. 2000 <br> Lenneberg 1969 | *advanced registration begins (1)* <br> 
+11 |  Nov 03: Sign Language | Mayberry et al. 2011 <br> Perani et al. 2011 | *last day to withdraw (8)* <br> 
+12 | Nov 17: Bilingualism  | Weber-Fox & Neville 1996  | 
 13 | Nov 24: Friday classes, no class!  | | *R & F classes on T & W <br> thanksgiving break (25-28)*
-14 | Dec 01: Evolution | | 
-15 | Dec 08: Cerebellum | | *last day of classes (10)*<br> 
+14 | Dec 01: Evolution | Perani et al. 2011 <br> Rilling et al 2008  | 
+15 | Dec 08: Cerebellum |  Marien et al. 2014 <br> Lesage et al. 2012 | *last day of classes (10)*<br> 
 16 | Dec 15: Finals week, no class! | | 
 
 
