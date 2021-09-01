@@ -79,59 +79,16 @@ Wk  | Lecture | Readings | Resources
 
 ## Policies
 
-- **Attendance**: There is no formal attendance policy, but keeping up with the material is highly correlated with class performance. Make plans to attend in person or watch the lectures online (alone or with a small group). 
-- **Late assignments**: TBD
-- **Accommodations**: We are happy to provide accommodations to anyone with documentation from Student Disability Services and to make alternate arrangements when class conflicts with a religious holiday. Please notify your lab section TA as soon as possible to make these arrangements.
+- **Attendance**: There is no formal attendance policy, but participation is highly correlated with class performance (see Evaluation section). 
+- **Accommodations**: I'm happy to provide accommodations to anyone with documentation from Student Disability Services and to make alternate arrangements when class conflicts with a religious holiday. Please notify your lab section TA as soon as possible to make these arrangements.
 - **Academic Integrity**: We will follow the rules of the University and the [Code of Academic Integrity](https://catalog.upenn.edu/pennbook/code-of-academic-integrity/).  It is your responsibility to be familiar with these policies.
 - **Support**: Asking for help is a sign of strength! We hope you'll reach out to us if you need help. We also want you to be aware of Penn's [Academic](https://www.college.upenn.edu/index.php/support) & [Wellness Resources](https://www.wellnessatpenn.com/)
 
-## Grading 
-
-### Rubric
-
-
-
-### Scale
+## Grading Scale
 The table below shows the minimum score before rounding for letter grades. Grading in this course is not on a curve: there is room for everyone to do well!
 
 A+ 97 | A 93% | A- 90% | B+ 87% | B 84% | B- 80%
 --- | --- | --- | --- | --- | ---
 C+ 77% | C 74% | C- 70% | D+ 67% | D 64% | D- 61%
-
-
-## FAQs
-
-**I am not comfortable coming to the 80 person lecture in person due to COVID. Can I watch the lectures online instead?**
-> Yes, of course! We know many students won't feel comfortable in an enclosed space with this many people just yet. All lectures will be recorded and posted [here]() a few minutes after class. You can watch on your own, or form a small group of peers to watch together if you are more comfortable. 
-
-**Can I skip the fourth exam if I am happy with my grade on the first three?**
-> Yes! You can skip the fourth exam and it will be dropped. Your grade will be based on the first three exams.
-
-**If I miss lab can I come to another recitation section that week?**
-> Sure! You can join any lab session that will work for your schedule. But keep in mind that the rooms are small so it’s best to email the section TA to let them know.
-
-**I am not comfortable attending lab in person. What should I do?**
-> We expect labs to have around 15-20 people each week, so they will be much smaller than lecture. If you still don't feel comfortable, we recommend trying the problem sets on your own, and then attending virtual office hours to get help. You can also ask questions on Ed 
-
-as you are working through them. 
-
-**I noticed a mistake in the grading of my exam. How do I get this fixed?**
-> We will look at your exam again if you make a formal [re-grade request](https://canvas.upenn.edu/courses/1489351/modules/items/17298855) via Canvas within one week of getting your exam back.
-
-**I missed or failed an exam. What can I do to make it up?**
-> Nothing. We don't allow make-up exams or retakes. However, we drop your lowest exam score, so you can still do well in the class. Just make sure it doesn't happen more than once! 
-
-**Can I turn in my data journal late?** 
-> Yep! Data journals will be accepted without penalty through the last day of class (Dec 10th).
-
-**I missed class, how can I catch up?**
-> All of the lectures will be automatically recorded and posted to canvas a few minutes after class ends. You can watch the lectures when you are ready. We also recommend attending office hours and lab sections to make sure you don't fall behind. 
-
-**I do not feel well, tested positive for COVID, and/or need to quarantine. What should I do?**
-> Please don't come to class if you are unwell or under quarantine. Follow the steps in the question above (under "I missed class") to catch up. If you miss a lab, you can try the problem sets on your own and schedule a virtual office hours to catch up. If you will miss an exam for this reason, let us know and we will work with you.
-
-**What will happen if one of the instructors or TAs does not feel well, tests positive, and/or needs to quarantine?**
-> We will teach the course remotely if we need to, or fill in for each other if we can. We have a large teaching team, so this shouldn't be an issue. 
-
 
 
