@@ -28,7 +28,7 @@ Neurolinguistics is a seminar on language and the brain. For the first few weeks
 
 ### Requirements
 
-- **Reading and posting discussion questions**: Each week, you will be responsible for preparing for the discussion by reading and annotating 2-3 papers on the weeks’ topic with discussion questions (on Perusall).
+- **Reading and posting discussion questions**: Each week, you will be responsible for preparing for the discussion by reading and annotating 2-3 papers on the weeks’ topic with discussion questions (on Perusall). [See the annotation guidelines](https://public.3.basecamp.com/p/p7oojNVWQXJRH6BVe5bteXFX)
 - **Lead discussions**: Several times throughout the semester (but not every week), you will serve as discussion leader for a paper with one or two other students. As discussion leader, you’ll be responsible for presenting the paper, including summarizing (motivation, research questions, approach, and findings) and leading a discussion of the work. If you cannot attend synchronously you can submit a pre-recorded presentation. 
 - **Lit Review**: You will select a topic of interest (within the bounds of language and the brain) and write a formal literature review. There will be several assignments leading up to this final paper to help you make progress.
 
