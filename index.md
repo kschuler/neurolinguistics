@@ -61,19 +61,19 @@ Schedule is subject to change. All sessions will be recorded and [posted here]()
 Wk  | Lecture | Readings | Resources
 1 | [Sep 01: Welcome & Overview](https://docs.google.com/presentation/d/1MdIJzTOnmsF_17hfeWEa6U9DnQIKKjLNQvgj1LNVKds/edit?usp=sharing) | [von Melchner, Pallas, & Sur 2000](https://app.perusall.com/courses/neurolinguistics/visual-behaviour-mediated-by-retinal-projections-directed-to-the-auditory-pathway?assignmentId=DqkwEG6qYaMETTj7x&part=1) | *first day of Penn classes (31)* <br> 
 2 | Sep 08: Neurons & Methods | [Brain and Behavior](https://app.perusall.com/courses/neurolinguistics/the-brain-and-behavior-787898030?assignmentId=nrsgpimBwd2cg8vhy&part=1)<br>[Organization of the CNS](https://app.perusall.com/courses/neurolinguistics/the-organization-of-the-central-nervous-system?assignmentId=EMm34PeuwrtyC3xqW&part=1) <br> [Language and the Brain](https://app.perusall.com/courses/neurolinguistics/ch-7-language-and-the-brain?assignmentId=AyYFRNmHBCQgKD9Am&part=1)    | [Notes on the CNS](https://docs.google.com/document/d/1PRnxbS35voE_a0O-zt9b5AgpzA90kzHGQmPOjIeMIoo/edit) <br>[Video overview of CNS](https://www.youtube.com/watch?v=xB7rXw_3gVY&t=34s&ab_channel=UBCMedicine-EducationalMedia)<br>[Virtual anatomy lab](https://www.neuroanatomy.ca/modules/Cortex/story_html5.html)
-3 | Sep 15: Networks  | Catani, Jones, & Ffytche 2005 <br>  Friederici & Gierhan 2013 | *course selection period ends (14)* <br>
+3 | Sep 15: Networks  | Catani, Jones, & Ffytche 2005 <br>  Friederici & Gierhan 2013 | *course selection period ends (14)* <br> **Topic & Reading List due Fri**
 4 | Sep 22: Perspective |  Krakauer et al. 2017 <br>  Embick & Poeppel 2015 | 
-5 | Sep 29: Sounds & Phonemes | Scott et al 2000 <br>   Nishimura et al 1999 | 
+5 | Sep 29: Sounds & Phonemes | Scott et al 2000 <br>   Nishimura et al 1999 | **Annotated Bib due Fri**
 6 | Oct 06: Words | Davis & Gaskell 2009 <br> Quiroga et al. 2015 | 
-7 | Oct 13: Syntax I  | Fitch & Martins 2014 <br>  Kaan & Swaab 2002  | *drop period ends (11) <br> fall break (14 - 17)*<br> 
+7 | Oct 13: Syntax I  | Fitch & Martins 2014 <br>  Kaan & Swaab 2002  | *drop period ends (11) <br> fall break (14 - 17)*<br> **Full Outline due Fri**
 8 | Oct 20: Syntax II | Mikuuchi et al 2009 <br> Ding et al. 2016 | 
-9 | Oct 27: Semantics |  Lau et al. 2008 <br>  Friedrich & Friederici 2005 | *grade types change deadline (29)*<br>
-10 | Nov 10: Acquisition  | Petitto et al. 2000 <br> Lenneberg 1969 | *advanced registration begins (1)* <br> 
-11 |  Nov 03: Sign Language | Mayberry et al. 2011 <br> Perani et al. 2011 | *last day to withdraw (8)* <br> 
+9 | Oct 27: Semantics |  Lau et al. 2008 <br>  Friedrich & Friederici 2005 | *grade types change deadline (29)*<br>**Full Outline PR due Fri**
+10 | Nov 03: Acquisition  | Petitto et al. 2000 <br> Lenneberg 1969 | *advanced registration begins (1)* <br> 
+11 |  Nov 10: Sign Language | Mayberry et al. 2011 <br> Perani et al. 2011 | *last day to withdraw (8)* <br> **First Draft due Fri**
 12 | Nov 17: Bilingualism  | Weber-Fox & Neville 1996  | 
-13 | Nov 24: Friday classes, no class!  | | *R & F classes on T & W <br> thanksgiving break (25-28)*
+13 | Nov 24: Friday classes, no class!  | | *R & F classes on T & W <br> thanksgiving break (25-28)* **First Draft PR due Wed**
 14 | Dec 01: Evolution | Perani et al. 2011 <br> Rilling et al 2008  | 
-15 | Dec 08: Cerebellum |  Marien et al. 2014 <br> Lesage et al. 2012 | *last day of classes (10)*<br> 
+15 | Dec 08: Cerebellum |  Marien et al. 2014 <br> Lesage et al. 2012 | *last day of classes (10)*<br> **Final Draft with Responses due Fri**
 16 | Dec 15: Finals week, no class! | | 
 
 
