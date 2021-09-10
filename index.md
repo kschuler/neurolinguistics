@@ -71,7 +71,7 @@ Wk  | Lecture | Readings & Resources
 10 | Nov 03: Acquisition  | Petitto et al. 2000 <br> Lenneberg 1969 <br><br> *advanced registration begins (1)* <br> 
 11 |  Nov 10: Sign Language | Mayberry et al. 2011 <br> Perani et al. 2011 <br><br> *last day to withdraw (8)* <br> **First Draft due Fri**
 12 | Nov 17: Bilingualism  | Weber-Fox & Neville 1996   
-13 | Nov 24: Friday classes, no class!  |  *R & F classes on T & W <br> thanksgiving break (25-28)* **First Draft PR due Wed**
+13 | Nov 24: Friday classes, no class!  |  *R & F classes on T & W <br> thanksgiving break (25-28)* <br> **First Draft PR due Wed**
 14 | Dec 01: Evolution | Perani et al. 2011 <br> Rilling et al 2008  
 15 | Dec 08: Cerebellum |  Marien et al. 2014 <br> Lesage et al. 2012 <br><br> *last day of classes (10)*<br> **Final Draft with Responses due Fri**
 16 | Dec 15: Finals week, no class! | 
