@@ -56,7 +56,6 @@ Neurolinguistics is a seminar on language and the brain. For the first few weeks
 
 
 ## Schedule
-Schedule is subject to change. All sessions will be recorded and [posted here]() a few minutes after each class.
 
 Wk  | Lecture | Readings & Resources 
 1 | [Sep 01: Welcome & Overview](https://docs.google.com/presentation/d/1MdIJzTOnmsF_17hfeWEa6U9DnQIKKjLNQvgj1LNVKds/edit?usp=sharing) | [von Melchner, Pallas, & Sur 2000](https://app.perusall.com/courses/neurolinguistics/visual-behaviour-mediated-by-retinal-projections-directed-to-the-auditory-pathway?assignmentId=DqkwEG6qYaMETTj7x&part=1) <br><br> *first day of Penn classes (31)*
