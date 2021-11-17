@@ -10,7 +10,7 @@ layout: page
 
 <hr>
 
-> The course is full! [Join the waitlist!](https://forms.gle/qyiF72PnfSYwKxFn6)
+> Paper due Dec 03!
 
 <hr>
 
